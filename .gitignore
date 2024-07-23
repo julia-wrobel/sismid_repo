@@ -1,0 +1,10 @@
+data/*
+.Rhistory
+.Rproj.user
+*.pdf
+*.DS_Store
+.Renviron
+*html
+drafts/*
+Literature/*
+*png
